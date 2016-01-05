@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'Ellie's Place'
+title:            "Ellie's Place"
 tagline:          'Just a place'
 description:      'A place for Ellie to put her stuff.'
-url:              http://hyde.getpoole.com
+url:              http://eltariel.com
 baseurl:          /
 
 author:
