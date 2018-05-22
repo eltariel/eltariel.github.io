@@ -17,5 +17,5 @@ Ok, fuck. Turns out that my scholarship is funded by some oddball paramilitary o
 And then they show us how we're going to go find this team. It's basically a freaking STARGATE. I'm... nope. But I'm in this far now. Not really any way to go other than through. I'll try to keep writing this when I can, but I'm pretty sure things are going to get rather hectic now...
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyOTMxMTIwXX0=
+eyJoaXN0b3J5IjpbNjQyNDkwNTk3XX0=
 -->
