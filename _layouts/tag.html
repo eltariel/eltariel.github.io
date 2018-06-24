@@ -3,11 +3,11 @@ layout: page
 ---
 
 <ul>
-{% for post in site.tags[page.tag] | reverse %}
+{% for post in site.tags[page.tag] reversed %}
 <li>
 	<a href="{{ post.url | absolute_url }}">
 	{{ post.date | date_to_string }} - {{ post.title }}
-    </a>
+	</a>
 </li>
 {% endfor %}
 </ul>

@@ -1,0 +1,20 @@
+{% assign taglinks = "" | split: "" %}
+{% for tag in include.tagsrc %}
+	{% assign tagpage = "" %}
+	{% for node in site.pages %}
+		{% if node.layout == "tag" %}
+		{% if node.tag == tag %}
+			{% assign tagpage = node.url %}
+		{% endif %}
+		{% endif %}
+	{% endfor %}
+
+	{% if tagpage == "" %}
+		{% assign taglink = tag %}
+	{% else %}
+		{% capture taglink %}<a href="{{ tagpage }}">{{ tag }}</a>{% endcapture %}
+	{% endif %}
+	{% assign taglinks = taglinks | push: taglink %}
+{% endfor %}
+
+<span class="post-tags">Tagged: {{ taglinks | array_to_sentence_string }}</span>
