@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
+<h1>TODO: An actual about page</h1>
+<p>I've left the default content from my theme here as a reminder to myself to edit this.</p>
+
+<hr />
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
