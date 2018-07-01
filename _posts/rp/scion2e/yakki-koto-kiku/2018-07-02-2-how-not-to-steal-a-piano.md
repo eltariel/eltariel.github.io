@@ -22,9 +22,9 @@ The staff looked a little concerned when I mentioned "keys". This didn't entirel
 
 I didn't have a couple of moments, though. My phone rang - it was Morgan. I answered in my rapid-fire French again, hoping that they understood. Of course, they did not. I mentioned to the lead museum guy that it was my boss and he was *quite* perturbed about the situation, and then wandered around the front of the truck again so I could talk a little more freely.
 
-> Morgan: "What's going on? We showed up and the place is in turmoil! Did our opponents find you?"\
-> Me: "Not exactly... Lily caused a scene, got arrested, and I'm taking advantage of it."\
-> Morgan: "Shit, I thought we'd had a bad time!"\
+> Morgan: "What's going on? We showed up and the place is in turmoil! Did our opponents find you?"  
+> Me: "Not exactly... Lily caused a scene, got arrested, and I'm taking advantage of it."  
+> Morgan: "Shit, I thought we'd had a bad time!"  
 > Me: "We'll have to catch up later. I'm in loading bay 7 with the piano all packaged up ready for transit and I'm going to need some help. Bring Hana if she's still with you."
 
 I walked slowly back to the dock, speaking French to the quiet phone. I made a bit of a scene about the boss being pissed that we were still in the museum, and how I'd had to convince the staff every step of the way to actually move, mostly just buying time until the others showed up. Then I complained about fancy high tech security and the fact that the RFID app on my phone was janky, while loading up the cracking tool.
@@ -37,10 +37,10 @@ The senior guy used this distraction to dig out a radio and call for security. I
 
 Of *course* this was the exact moment she chose to stroll through the roller doors...
 
-> Lily: "You started the party without me!"\
-> Me: "Ha ha ha. Get your butt up here and help me with this lock."\
-> Lily: "... wha?"\
-> Me: "Can you punch it out of existence like you did with that guard?"\
+> Lily: "You started the party without me!"  
+> Me: "Ha ha ha. Get your butt up here and help me with this lock."  
+> Lily: "... wha?"  
+> Me: "Can you punch it out of existence like you did with that guard?"  
 > Lily: "I can *try*... won't last long if I do though."
 
 I pulled on the door handle as she punched the lock. It disappeared, and the door came open in my hand. We person-handled the piano in, tied it down, and then climbed in the truck - Lily and Morgan in the back with the piano, and Hana up front with me.
