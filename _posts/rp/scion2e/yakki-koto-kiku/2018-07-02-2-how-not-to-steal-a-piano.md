@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: How Not to Steal a Piano
 tags: rp scion2e yakki-koto-kiku leigh
+character: Leigh
 ---
-
-*Leigh*
 
 You know how sometimes a harebrained scheme comes into your head and you can't help running with it? Today has been *exactly* that.
 

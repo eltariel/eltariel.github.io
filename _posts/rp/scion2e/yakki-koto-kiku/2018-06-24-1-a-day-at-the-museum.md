@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: A Day at the Museum
 tags: rp scion2e yakki-koto-kiku leigh
+character: Leigh
 ---
-
-*Leigh*
 
 I've been contacted for a potentially lucrative job, but it's a little bit... *unusual*. Generally I get a little bit more detail than "We have a job for you, meet us at this time," so I was a little wary and ready to just not bother with it. But when the specified time is so precise - 10:14am! - I can't help but be a little intrigued. I was as little surprised when I turned up for the meeting (precisely on time - I've encountered this type before) to find that there were two others present. Even more surprised to find that I knew them from elsewhere. Lily and Morgan are both regulars on one of the forums I run, and I've been lucky enough to have the opportunity to meet them both when they were looking for some relatively obscure information. At precisely 10:14am on the rocket clock (actually a gps-synced watch, but close enough), a lackey wearing a suit that just made him look ominous arrived to usher us into the meeting. He looked rather perturbed, and rumbled something about there being someone missing. About 20 seconds "late", another surprise arrived. I also knew Hana in much the same way as the other two, and I found myself intensely curious about the nature of the job, given the apparent makeup of the group here for the meeting.
 

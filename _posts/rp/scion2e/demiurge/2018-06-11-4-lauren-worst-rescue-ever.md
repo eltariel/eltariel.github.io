@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: Worst. Rescue. EVER.
 tags: rp scion2e demiurge lauren
+character: Lauren
 ---
-*Lauren, day 1*
 
 So. Things happened. Everything went to shit, the team got separated, stuff happened. Short version because I don't have time to write a proper entry goes something like this:
 

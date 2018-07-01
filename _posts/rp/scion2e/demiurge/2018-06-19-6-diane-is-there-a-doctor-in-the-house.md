@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: Is there a doctor in the house?
 tags: rp scion2e demiurge diane
+character: Diane
 ---
-*Diane*
 
 There was a collective sigh of relief in the comms room when the away team radioed back to let us know what had happened in the village. We were all a little shocked about what happened, but also relieved that we knew that at least some of the team was still ok. The news that they were heading back kicked off a flurry of activity: the supply team went into overdrive to make sure they'd have a quick turnaround, base command disappeared into meetings to figure out how to best help the villagers rebuild, and our medical staff prepared to do what they could do patch up their boss.
 

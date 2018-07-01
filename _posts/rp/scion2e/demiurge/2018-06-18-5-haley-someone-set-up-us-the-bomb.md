@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: Someone set up us the bomb
 tags: rp scion2e demiurge haley
+character: Haley
 ---
-*Haley*
 
 This whole thing just keeps getting weirder. The attack of the clockwork robots was a thing. Apparently I’m pretty damn good with a gun, and stuff. Lauren was pissed that an untrained rookie was better at shootering than she is, everyone else seems to think it’s because we’re apparently either the same person (according to Solveig) or numbered clones (according to Hilde).
 

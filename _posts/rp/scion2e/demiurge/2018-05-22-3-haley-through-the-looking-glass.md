@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: character-diary
 title: Through the Looking Glass
 tags: rp scion2e demiurge haley
+character: Haley
 ---
-*Haley, day 1*
 
 So it's a good thing I checked my kit before we did anything. Someone thought I'd be ok with a piddly little combat knife; I'd asked for a machete for a damn good reason. Have you ever tried to amputate a leg with a combat knife?? The quartermaster here was being a *real* tight-arse about replacing it too, until I offered to demonstrate just how difficult it is by using him as a model. He got helpful real quick at that point. I now have a damn good machete. Still no idea what I'm going to do with the gun though.
 
@@ -22,8 +22,3 @@ The shaman attempted to blind us with her magic staff, which worked pretty damn 
 Locked up in the only fully intact building remaining in the village, we found Lauren, the Hux, and another random guy who turned out to be the previous chief of the village. Hux was unconscious, so Lauren did some explaining about what the hell had happened.
 
 Also, apparently Lauren is also my clone, just like Diane is. This is a surprise. I guess I must have one of those faces.
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTYzNjA2XX0=
--->
