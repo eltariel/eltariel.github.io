@@ -45,6 +45,6 @@ Of *course* this was the exact moment she chose to stroll through the roller doo
 
 I pulled on the door handle as she punched the lock. It disappeared, and the door came open in my hand. We person-handled the piano in, tied it down, and then climbed in the truck - Lily and Morgan in the back with the piano, and Hana up front with me.
 
-We escaped without pursuit. When Lily contacted Freddy's office to arrange delivery of the piano however, we learners that a traffic helicopter had footage of us leaning but had them lost track of us.
+We escaped without pursuit. When Lily contacted Freddy's office to arrange delivery of the piano however, we learned that a traffic helicopter had footage of us leaning but had them lost track of us.
 
 So now we're hiding in an abandoned-looking building's loading bay and trying to work out what's next...
