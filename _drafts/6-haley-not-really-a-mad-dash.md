@@ -13,7 +13,7 @@ I had been wondering what we were going to do with Daniel once we got back here.
 
 Mike gave me the details for the medevac that was being set up just in case, then Daniel and I headed towards the rendezvous point near the village. Once we left the outskirts of the city, Daniel unwrapped the radio from its improvised Faraday cage and contacted SELF.
 
-> Daniel: This is Daniel Thorsson calling SELF. Medical assistance required. Repeat: Daniel Thorsson calling SELF. Medical assistance required.  
+> Daniel: This is Daniel Thorson calling SELF. Medical assistance required. Repeat: Daniel Thorson calling SELF. Medical assistance required.  
 > Diane: Acknowledged, Daniel. It's good to hear your voice again. How can we be of assistance?  
 > Daniel: I have a ton of broken bits and I'm not sure where to start. Haley's bringing me back on Mike's bike. Mike mentioned a medevac?  
 > Diane: Ahh, negative on the medevac. The drone can't carry the two of you, and Haley's probably better to bring you back herself... just in case.  
