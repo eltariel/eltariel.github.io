@@ -23,13 +23,13 @@ permalink:        pretty
 # Setup
 title:            "Ellie's Place"
 tagline:          'Just a place'
-description:      'A place for Ellie to put her stuff.'
+description:      'A place for Ellie to put their stuff.'
 url:              https://eltariel.com
 baseurl:          
 
 author:
   name:           'Ellie Tomkins'
-  url:            http://eltariel.com
+  url:            https://eltariel.com
 
 paginate:         5
 
