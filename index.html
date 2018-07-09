@@ -14,8 +14,8 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 	{% include tagline.html tagsrc=post.tags %}
 
-    {{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}
-    <a href="{{ post.url | relative_url }}">... see full post</a>
+	<p>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</p>
+	<p><a href="{{ post.url | relative_url }}">See full post &gt;&gt;&gt;</a></p>
   </div>
   {% endfor %}
 </div>
