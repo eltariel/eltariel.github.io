@@ -5,7 +5,7 @@ layout: page
 <ul>
 {% for post in site.tags[page.tag] reversed %}
 <li>
-	<a href="{{ post.url | absolute_url }}">
+	<a href="{{ post.url  | relative_url }}">
 	{{ post.date | date_to_string }} - {{ post.title }}
 	</a>
 </li>

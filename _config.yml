@@ -24,8 +24,8 @@ permalink:        pretty
 title:            "Ellie's Place"
 tagline:          'Just a place'
 description:      'A place for Ellie to put her stuff.'
-url:              http://eltariel.com
-baseurl:          /
+url:              https://eltariel.com
+baseurl:          
 
 author:
   name:           'Ellie Tomkins'

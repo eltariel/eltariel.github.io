@@ -12,7 +12,7 @@
 	{% if tagpage == "" %}
 		{% assign taglink = tag %}
 	{% else %}
-		{% capture taglink %}<a href="{{ tagpage }}">{{ tag }}</a>{% endcapture %}
+		{% capture taglink %}<a href="{{ tagpage | relative_url }}">{{ tag }}</a>{% endcapture %}
 	{% endif %}
 	{% assign taglinks = taglinks | push: taglink %}
 {% endfor %}
