@@ -18,7 +18,7 @@ The mention of languages piques Haley's interest, reminding her of the moment in
 
 "I can see that, in a way," Shi agrees, "direct download would be faster, though. To my benefit, I am discovering the pleasure of 'leisurely activity'. I'm dedicating far less subroutines to threat acquisition and assessment. I would be happy to teach you my machine language, it may also help you understand the portal device."
 
-"Well, that's an interesting revelation. Also a little disappointing, I was trying to find something for us to do that didn't have anything to do with the work here!" She smiles at her own silliness, then muses "I suppose since it's going to be useful then we should probably make sure Diane learns too, she's the language whiz and she's been working with the portal..."
+"Well, that's an interesting revelation. Also a little disappointing, I was trying to find something for us to do that didn't have anything to do with the work here!" Haley smiles at her own silliness, then muses "I suppose since it's going to be useful then we should probably make sure Diane learns too, she's the language whiz and she's been working with the portal..."
 
 Haley's train of thought is derailed by Lauren as she steps into the room. "Oh, there you are," she says to Haley, "they want you for a debriefing about Daniel and stuff." She turns to the cell's occupant, nods, and says "hey, Shi. How goes it? Keeping busy?"
 
@@ -42,7 +42,7 @@ Lauren found Diane in the break room near the comms centre. "Hey, do you have a 
 
 Diane replies without looking up from her book. "Oh, hey Lauren, what can I do you for?" Diane turns sideways in her chair to face Lauren as she flops down into a seat, and notices how worn out her friend is. "You should really get some rest, you've had a hell of a time lately and you look like death..."
 
-Lauren sighs, then settles further into her seat. "I know. I'm exhausted. I can't stop just yet, my brain's been going round in circles trying to figure out some stuff." She pause for a moment, trying to corral the thoughts well enough that they'll come out of her mouth coherently. "You know how everyone keeps getting us mixed up? I've been getting that with Diane too since she showed up with the rescue party. Fuck. No. Hayley. You're Diane. Dammit, I can tell you both apart without any effort but everyone else thinks we're twins or clones or whatever. Just like they do with you and me."
+Lauren sighs, then settles further into her seat. "I know. I'm exhausted. I can't stop just yet, my brain's been going round in circles trying to figure out some stuff." She pause for a moment, trying to corral the thoughts well enough that they'll come out of her mouth coherently. "You know how everyone keeps getting us mixed up? I've been getting that with Diane too since she showed up with the rescue party. Fuck. No. Hayley. You're Diane. Damnit, I can tell you both apart without any effort but everyone else thinks we're twins or clones or whatever. Just like they do with you and me."
 
 Diane nods. "I've been getting that too. It's exactly the same for me. And other things have been a little odd too lately."
 
