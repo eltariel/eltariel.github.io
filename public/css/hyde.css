@@ -83,6 +83,10 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-license {
+  font-size: 0.5rem;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
