@@ -33,6 +33,8 @@ author:
 
 paginate:         5
 
+repository:       eltariel/eltariel.github.io
+
 # Custom vars
 version:          2.1.0
 
