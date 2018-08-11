@@ -39,7 +39,7 @@ I'd barely left my room before I bumped into Sarvesh. He had a silly grin on his
 
 > **Sarvesh**: You look like crap. Something on your mind?  
 > **Lauren**: Just... a lot going on. And these stupid dreams.  
-> **Sarvesh**: You're not wrong about stuff happening around here, everything's been turned up to 11 since the new team showed up. You just missed them, by the way - they came back to get some trade supplies. Did you want to talk about these dreams?
+> **Sarvesh**: You're not wrong about stuff happening around here, everything's been turned up to 11 since the new team showed up. You just missed them, by the way - they came back to get some trade supplies. Did you want to talk about these dreams?  
 > **Lauren**: Um, yeah. That might be a good idea. Just one thing though... The trade supplies weren't dried fruit by any chance?
 
 The way the colour drained out of his face told me pretty quickly that these weren't just ordinary dreams. As I recounted what I'd seen his eyes widened; I was worried I was going to have to catch them when they fell out of his face. "I think you'd better tell the Director all of this first hand," he said nervously, and he practically dragged me all the way to get office.
