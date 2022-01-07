@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting a CLU
-tags: tech pi k8s
+tags: tech pi k8s clu iot
 ---
 
 The end of the year! Time to spend everything that's left over from the budget before the money magically disappears :D

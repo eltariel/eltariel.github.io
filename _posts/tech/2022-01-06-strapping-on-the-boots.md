@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strapping On the Boots
-tags: tech pi k8s clu
+tags: tech pi k8s clu bash ansible k3s
 ---
 
 Part two of my journey into a tasty cluster of Pi is to actually get the software up and running. It's pretty easy to
