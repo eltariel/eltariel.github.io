@@ -1,42 +1,45 @@
 # Dependencies
 plugins:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
-   - jekyll-coffeescript
-   - jekyll-gist
-   - jekyll-github-metadata
-   - jekyll-paginate
-   - jekyll-relative-links
-   - jekyll-optional-front-matter
-   - jekyll-readme-index
-   - jekyll-default-layout
-   - jekyll-titles-from-headings
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 
-highlighter:      rouge
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            "Ellie's Place"
-tagline:          'Just a place'
-description:      'A place for Ellie to put their stuff.'
-url:              https://eltariel.com
-baseurl:          
+title: "Ellie's Place"
+tagline: "Just a place"
+description: "A place for Ellie to put their stuff."
+url: https://eltariel.com
+baseurl: ""
 
 author:
-  name:           'Ellie Tomkins'
-  url:            https://eltariel.com
+  name: "Ellie Tomkins"
+  url: https://eltariel.com
 
-paginate:         5
+paginate: 5
 
-repository:       eltariel/eltariel.github.io
+repository: eltariel/eltariel.github.io
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
 github:
-  repo:           https://github.com/eltariel
+  repo: https://github.com/eltariel
+
+include:
+  - .well-known
