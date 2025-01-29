@@ -8,5 +8,9 @@
     },
     "m.homeserver": {
         "base_url": "https://matrix.eltariel.com"
+    },
+    "org.matrix.msc2965.authentication": {
+        "account": "https://matrix.eltariel.com/auth/account",
+        "issuer": "https://matrix.eltariel.com/auth/"
     }
 }
